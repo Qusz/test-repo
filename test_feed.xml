@@ -11,8 +11,8 @@
 			<option cost="300" days="0" order-before="12"/>
 		</delivery-options>
 		<categories>
-			<category id="314" order="314" picture="">Мясо, птица и утка</category>
-			<category id="369" order="369" picture="" parentId="314">Говядина</category>
+			<category id="314" order="314" picture="dwd">Мясо, птица и утка</category>
+			<category id="369" order="369" picture="dwdw" parentId="314">Говядина</category>
 		</categories>
 
 		<offers>
